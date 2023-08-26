@@ -6,9 +6,10 @@ def text_upper_case(text):
     """
     return text.upper()
 
+
 def text_title_case(text):
     """
-    capitalizes the first letters of each word in the input string
+    function capitalizes the first letters of each word in the input string
     :param text: any string
     :return: text with capitalized first letters
     """
